@@ -1,0 +1,18 @@
+# Podcast vs. music
+df['content_type'] = df['episode_name'].apply(lambda x: 'Podcast' if pd.notnull(x) else 'Music')
+plt.figure(figsize=(8, 8))
+content_type = df.groupby('content_type')['hours_played'].sum()
+content_type.plot(kind='pie', autopct='%1.1f%%', title='Podcast vs. Music Listening Time', textprops={'fontsize': 14, 'fontname': 'Tahoma'})
+plt.ylabel('')
+plt.tight_layout()
+plt.show()
+
+# Top podcast shows
+plt.figure(figsize=(12, 6))
+top_podcasts = df.groupby('episode_show_name')['hours_played'].sum().nlargest(10)
+top_podcasts.plot(kind='bar', title='Top 10 Podcast Shows')
+plt.ylabel('Hours Played')
+plt.xlabel('Podcast Show')
+plt.xticks(rotation=45, fontname='Tahoma')
+plt.tight_layout()
+plt.show()
