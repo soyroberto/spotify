@@ -456,7 +456,7 @@ For questions, issues, or suggestions:
 
 ---
 
-**Author**: Manus AI  
+**Author**: Roberto with prompt assistance from Manus AI  
 **Last Updated**: January 2025  
 **Version**: 1.0.0
 
