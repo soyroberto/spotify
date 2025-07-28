@@ -1,5 +1,6 @@
 # Spotify Historycal Data Visualization Project
 - **This is all my data listening history**
+
 A comprehensive Python-based toolkit for analyzing and visualizing personal Spotify streaming history data. This project provides multiple approaches to explore your music listening patterns through interactive dashboards, static visualizations, and data search capabilities.
 
 ## 📊 Project Overview
