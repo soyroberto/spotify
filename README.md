@@ -1,10 +1,10 @@
-# Spotify Data Visualization Project
-
+# Spotify Historycal Data Visualization Project
+- **This is all my data listening history**
 A comprehensive Python-based toolkit for analyzing and visualizing personal Spotify streaming history data. This project provides multiple approaches to explore your music listening patterns through interactive dashboards, static visualizations, and data search capabilities.
 
 ## 📊 Project Overview
 
-This repository contains a collection of Python scripts designed to transform raw Spotify streaming data (JSON format) into meaningful insights and beautiful visualizations. The project offers three main approaches to data analysis:
+This repository contains a collection of Python scripts designed to transform raw Spotify streaming data (JSON format) into meaningful insights and beautiful visualizations.  The project offers three main approaches to data analysis:
 
 1. **Interactive Web Applications** - Streamlit dashboard and Panel-based search interface
 2. **Static Visualizations** - Matplotlib and Seaborn charts with enhanced aesthetics  
