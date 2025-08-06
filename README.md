@@ -11,6 +11,9 @@ This repository contains a collection of Python scripts designed to transform ra
 2. **Static Visualizations** - Matplotlib and Seaborn charts with enhanced aesthetics  
 3. **Interactive Plots** - Plotly-powered charts with hover functionality and zoom capabilities
 
+![Top 101 Artist by listening time](Screenshot 2025-07-01 at 16.41.40.png)
+![Spotify Streaming History](Screenshot 2025-07-01 at 16.44.35.png)
+
 The analysis focuses on temporal patterns, artist preferences, track popularity, and listening behavior across different time periods. All scripts are designed to work with Spotify's official data export format, making it easy to analyze your personal listening history.
 
 ## 🚀 Features
