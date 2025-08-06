@@ -11,6 +11,7 @@ import seaborn as sns
 #top Artists by Listening Time
 #Top 101 Artists by Listening Time
 
+
 # Load JSON files into a DataFrame
 json_dir = '/Users/roberto/OneDrive/Azure/Spotify/MyData2'
 dataframes = []
