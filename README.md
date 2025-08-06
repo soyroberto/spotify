@@ -1,6 +1,11 @@
 # Spotify Historycal Data Visualization Project
 - **Note: This is all my data listening history**
-I included the files as reference, if you want your data to be visualized certainly you'd need to request it from Spotify.
+I included 1 JSON file as reference, if you want your data to be visualized certainly you'd need to request it from Spotify. See at the end of the document
+This was my 1st experiment visualizating my music listening data with Python, it's somewhat raw and I've made other projects that look much better:
+
+[My Spotify Data]https://soyroberto.streamlit.app/ - Visual for my listening history. This idea taken to a much better place. The repo: [My Spotify Data](https://github.com/soyroberto/streamlit)
+ (https://frymusic.streamlit.app/)  - A recommendation system based on my whole listening history. [My own personal recommendation system](https://github.com/soyroberto/mmuffin)
+
 A comprehensive Python-based toolkit for analyzing and visualizing personal Spotify streaming history data. This project provides multiple approaches to explore your music listening patterns through interactive dashboards, static visualizations, and data search capabilities.
 
 ## 📊 Project Overview
