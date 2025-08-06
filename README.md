@@ -14,7 +14,7 @@ This repository contains a collection of Python scripts designed to transform ra
 The analysis focuses on temporal patterns, artist preferences, track popularity, and listening behavior across different time periods. All scripts are designed to work with Spotify's official data export format, making it easy to analyze your personal listening history.
 
 ![Top 101 Artist by listening time](Screenshot2025-07-01x2.png)
-![Spotify Streaming History](Screenshot2025-07-01x2.png.png)
+![Spotify Streaming History](Screenshot2025-07-01x2.png)
 ![Top Track Artist by Listening time](top10tracksbylisteningtime.png)
 ![Top 101 Artist by listening time](top101artistlisteningtime.png)
 
