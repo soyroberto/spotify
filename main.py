@@ -3,6 +3,13 @@ import json
 import os
 import matplotlib.pyplot as plt
 import seaborn as sns
+#Creates graphics for:
+#Monthly Listening Time
+#Listening Hours vs. Days of the Week
+#Total Listening Hours per Month of the Year
+#Top 10 Tracks by Listening Time
+#top Artists by Listening Time
+#Top 101 Artists by Listening Time
 
 # Load JSON files into a DataFrame
 json_dir = '/Users/roberto/OneDrive/Azure/Spotify/MyData2'
